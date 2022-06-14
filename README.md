@@ -18,4 +18,5 @@
 <div style="display: inline_block" align="center">
 <a href = "mailto:alanogeol@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.linkedin.com/in/alano-burity-dos-santos-2aab97236/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>    
+</div>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
