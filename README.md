@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Alano Burity&fontSize=40&fontColor=fff&fontAlignY=35"/> 
 
+Amante da terra :volcano: e principalmente da tecnologia :desktop_computer:, Neste momento  estou em transição de carreira (Geólogo de formação :pick: )  e estudo desenvolvimento front-end na Trybe.
+De risada fácil e papo solto :hugs: espero ser feliz trabalhando com desenvolvimento web :raised_hands:
+
 ## GitHub
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlanoBurity&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alano Burity dos Santos github stats" /> 
