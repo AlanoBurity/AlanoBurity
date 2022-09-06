@@ -28,7 +28,7 @@ De risada fácil e papo solto :hugs: espero ser feliz trabalhando com desenvolvi
   
 </div>
 ![Profile views]
-(https://gpvc.arturio.dev/AlanoBurity)
+https://gpvc.arturio.dev/AlanoBurity
 
 
 ## Sobre: 
