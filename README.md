@@ -20,7 +20,6 @@ De risada fácil e papo solto :hugs: espero ser feliz trabalhando com desenvolvi
 ## Tecnologias que uso no meu dia
 <div align="center">
 
-<div align="center">
 
 | Tools  | Languages | Frameworks/Libraries  | Technologies |  
 |---|---|---|---|
