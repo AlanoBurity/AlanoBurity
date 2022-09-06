@@ -3,6 +3,13 @@
 <img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
 </p>
 
+## Hi there! Sajid Here 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alanoburity/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alanogeol@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+
+Software Engineering undergrad at IICT, SUST. Passoniate about Web Development, Problem Solving and customer-driven iterative Product Development. Loves to work in a team setting and learn new skills and implementing them. Areas of interests consist of System Design, Decentralized Systems, Web3, Testing and Refactoring, Software Architecture.
+
+<br>
 Amante da terra :volcano: e principalmente de tecnologia :desktop_computer:, sou desenvolvedor front-end.
 De risada fácil e papo solto :hugs: espero ser feliz trabalhando com desenvolvimento web :raised_hands:
 
