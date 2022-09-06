@@ -32,4 +32,5 @@ De risada fácil e papo solto :hugs: espero ser feliz trabalhando com desenvolvi
 - 🌱 Atualmente estudando Docker, MySQL, MongoDB, NodeJS, Express, JWT na Trybe.
 - 🤔 Buscando ajuda em : Design de Sistemas, Arquitetura de Software.
 - 💬 Me pergunte sobre: React,  Hooks, Boostrap, Css, Html.
+- :volcano: Geólogo formado na UERJ.
 - ⚡ Pedra é uma coisa Rocha é outra.
