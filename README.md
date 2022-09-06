@@ -29,7 +29,7 @@ De risada fácil e papo solto :hugs: espero ser feliz trabalhando com desenvolvi
 </div>
 
 
-### About me:
+## Sobre:
 - 🔭 I’m currently working on: Web Applications
 - 🌱 I’m currently learning: Vue.js, jest, CI/CD
 - 👯 I’m looking to collaborate on: Large scale web projects
