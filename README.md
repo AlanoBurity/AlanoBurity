@@ -29,10 +29,8 @@ De risada fácil e papo solto :hugs: espero ser feliz trabalhando com desenvolvi
 </div>
 
 
-## Sobre:
-- 🔭 I’m currently working on: Web Applications
-- 🌱 I’m currently learning: Vue.js, jest, CI/CD
-- 👯 I’m looking to collaborate on: Large scale web projects
-- 🤔 I’m looking for help with: System Design, Software Architechture
-- 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
-- ⚡ Fun fact: Otters are cool
+## Sobre: 
+- 🌱 Atualmente estudando Docker, MySQL, MongoDB, NodeJS, Express, JWT na Trybe.
+- 🤔 Buscando ajuda em : Design de Sistemas, Arquitetura de Software.
+- 💬 Me pergunte sobre: React,  Hooks, Boostrap, Css, Html.
+- ⚡ Pedra é uma coisa Rocha é outra.
