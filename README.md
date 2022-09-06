@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Alano Burity&fontSize=40&fontColor=fff&fontAlignY=35"/> 
+
 
 Amante da terra :volcano: e principalmente de tecnologia :desktop_computer:, sou desenvolvedor front-end.
 De risada fácil e papo solto :hugs: espero ser feliz trabalhando com desenvolvimento web :raised_hands:
