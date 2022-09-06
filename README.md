@@ -5,7 +5,7 @@
 
 ## Hello World, Alano aqui!
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alanoburity/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alanogeol@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+[![Gmail Badge](https://img.shields.io/badge/-alanogeol@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanogeol@gmail.com)](mailto:alanogeol@gmail.com)
 
 <br>
 Amante da terra :volcano: e principalmente de tecnologia :desktop_computer:, sou desenvolvedor front-end.
