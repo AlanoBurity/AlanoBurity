@@ -27,13 +27,6 @@ De risada fácil e papo solto :hugs: espero ser feliz trabalhando com desenvolvi
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   
 </div>
-
-## Contatos
-<div style="display: inline_block" align="center"><br>
-  
-  <a href = "mailto:alanogeol@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href = "https://www.linkedin.com/in/alano-burity-dos-santos-2aab97236/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
-</div>  
+ 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
