@@ -27,6 +27,3 @@ De risada fácil e papo solto :hugs: espero ser feliz trabalhando com desenvolvi
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   
 </div>
- 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
