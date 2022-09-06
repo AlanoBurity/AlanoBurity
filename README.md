@@ -18,12 +18,12 @@ De risada fácil e papo solto :hugs: espero ser feliz trabalhando com desenvolvi
 </div>
 
 ## Tecnologias que uso no meu dia
-<div style="display: inline_block" align="center"> <br>
-  
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<div align="center">
+
+| Tools  | Languages | Frameworks/Libraries  | Technologies |  
+|---|---|---|---|
+|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" height="30"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30" height="30"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" height="30"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>|
+
+</div>
   
 </div>
